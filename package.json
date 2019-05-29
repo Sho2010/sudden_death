@@ -1,0 +1,7 @@
+{
+  "name": "sudden-death-slack",
+  "version": "1.0.0",
+  "dependencies": {
+    "suddendeath": "0.2.0"
+  }
+}
