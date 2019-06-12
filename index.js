@@ -36,7 +36,7 @@ function sendSuddenDeath(message) {
   // See https://api.slack.com/docs/message-formatting
   const slackMessage = {
     response_type: "in_channel",
-    text: `${sdMes}`,
+    text: `\`\`\`${sdMes}\`\`\``,
     mrkdwn: false
   };
 
